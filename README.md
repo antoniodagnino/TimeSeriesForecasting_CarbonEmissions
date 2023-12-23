@@ -20,6 +20,9 @@ Forecast Carbon Emissions with Time-Series data. This repository contains 2x Jup
     - Match encoded location from df on test dataset
     - Join predictions based on location and date
     - Export Resuts
+ 
+      
+![Predictions_Rev01](https://github.com/antoniodagnino/TimeSeriesForecasting_CarbonEmissions/assets/76269794/6134876f-28a1-4ce8-8afc-2e2ef7a885b9)
 
 
 # 2. Carbon Capture - NBEATS Model Scale data before processing
@@ -29,3 +32,6 @@ Forecast Carbon Emissions with Time-Series data. This repository contains 2x Jup
     - Pre-Processing (Includes data SCALING)
 - Data Modeling
 - Forecasting with TEST dataset
+  
+  
+![Predictions scaled model](https://github.com/antoniodagnino/TimeSeriesForecasting_CarbonEmissions/assets/76269794/1ebb8d8b-63fb-487f-8665-149b7b7a718f)
